@@ -1,6 +1,6 @@
 #define PLUGIN_NAME "Fix Recoil"
 #define PLUGIN_VERSION "0.1"
-#define PLUGIN_AUTHOR "JkDev"
+#define PLUGIN_AUTHOR "VEN"
 
 #include <amxmodx>
 #include <fakemeta>
